@@ -8,4 +8,4 @@ Un blog para aprender de Git y Github
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas prácticas.
 
-Y como un amable recordatorio ** Este readme.md es un chiste **. Diseñado para ello. Ver curso: [Curso Git](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Curso Git")
+Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para ello. Ver curso: [Curso Git](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Curso Git")
