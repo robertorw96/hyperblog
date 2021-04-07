@@ -1,4 +1,4 @@
-# Hyperblog  :tw-1f34e:
+# Hyperblog  :)
 Un blog para aprender de Git y Github
 > El curso de Git y Github es lo que ma hacía falta.
 > - Nuevo
